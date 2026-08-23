@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>مدرسة الأمير بشير الشريف الثانوية بنات</title>
+    <title> مدرسة الأمير بشير الشريف الثانوية بنات</title>
     <meta name="description" content="مدرسة الأمير بشير الشريف الثانوية بنات - مؤسسة تعليمية رائدة تهدف إلى تمكين الطالبات وتطوير قدراتهن الأكاديمية والشخصية.">
     
     <!-- يمكنك إضافة Font Awesome للأيقونات -->
