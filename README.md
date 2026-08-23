@@ -925,7 +925,7 @@
             form.reset();
             successMessage.classList.add('show');
             
-            // إخفاء رسالة النجاح بعد 5 ثوانٍ
+            // يإخفاء رسالة النجاح بعد 5 ثوانٍ
             setTimeout(() => {
                 successMessage.classList.remove('show');
             }, 5000);
